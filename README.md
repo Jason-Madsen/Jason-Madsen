@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>PowerShell</b>
-  
+  - [Password Manager](https://github.com/Jason-Madsen/Password-Manager/tree/main)
 - <b>Python</b>
 
 - <b>Networking</b>
